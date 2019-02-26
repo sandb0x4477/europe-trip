@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sandb0x4477/europe-trip/precache-manifest.b8c47c5f9337fe6e0c19cdffaf433071.js"
+  "/europe-trip/precache-manifest.5d796f21146bd38383cf4fdf2743b964.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/sandb0x4477/europe-trip/index.html", {
+workbox.routing.registerNavigationRoute("/europe-trip/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

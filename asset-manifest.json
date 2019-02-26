@@ -1,13 +1,13 @@
 {
-  "main.css": "/sandb0x4477/europe-trip/static/css/main.b826af0c.chunk.css",
-  "main.js": "/sandb0x4477/europe-trip/static/js/main.012b3b19.chunk.js",
-  "main.js.map": "/sandb0x4477/europe-trip/static/js/main.012b3b19.chunk.js.map",
-  "runtime~main.js": "/sandb0x4477/europe-trip/static/js/runtime~main.e7cbe36b.js",
-  "runtime~main.js.map": "/sandb0x4477/europe-trip/static/js/runtime~main.e7cbe36b.js.map",
-  "static/js/2.5ec21d73.chunk.js": "/sandb0x4477/europe-trip/static/js/2.5ec21d73.chunk.js",
-  "static/js/2.5ec21d73.chunk.js.map": "/sandb0x4477/europe-trip/static/js/2.5ec21d73.chunk.js.map",
-  "index.html": "/sandb0x4477/europe-trip/index.html",
-  "precache-manifest.b8c47c5f9337fe6e0c19cdffaf433071.js": "/sandb0x4477/europe-trip/precache-manifest.b8c47c5f9337fe6e0c19cdffaf433071.js",
-  "service-worker.js": "/sandb0x4477/europe-trip/service-worker.js",
-  "static/css/main.b826af0c.chunk.css.map": "/sandb0x4477/europe-trip/static/css/main.b826af0c.chunk.css.map"
+  "main.css": "/europe-trip/static/css/main.b826af0c.chunk.css",
+  "main.js": "/europe-trip/static/js/main.84a8839b.chunk.js",
+  "main.js.map": "/europe-trip/static/js/main.84a8839b.chunk.js.map",
+  "runtime~main.js": "/europe-trip/static/js/runtime~main.ab760433.js",
+  "runtime~main.js.map": "/europe-trip/static/js/runtime~main.ab760433.js.map",
+  "static/js/2.5ec21d73.chunk.js": "/europe-trip/static/js/2.5ec21d73.chunk.js",
+  "static/js/2.5ec21d73.chunk.js.map": "/europe-trip/static/js/2.5ec21d73.chunk.js.map",
+  "index.html": "/europe-trip/index.html",
+  "precache-manifest.5d796f21146bd38383cf4fdf2743b964.js": "/europe-trip/precache-manifest.5d796f21146bd38383cf4fdf2743b964.js",
+  "service-worker.js": "/europe-trip/service-worker.js",
+  "static/css/main.b826af0c.chunk.css.map": "/europe-trip/static/css/main.b826af0c.chunk.css.map"
 }
